@@ -1,10 +1,13 @@
-<img width="1214" alt="image" src="https://github.com/user-attachments/assets/22096f68-f75f-4c36-9064-d774e0d1bc48"><img width="1214" alt="image" src="https://github.com/user-attachments/assets/8a8c3c55-f0d8-4579-b04c-6cd75e2f1621">## Music Gallery Site has a front-end SQL injection vulnerability
+## Music Gallery Site has a front-end SQL injection vulnerability
 
 ## Affected version: 
 Music Gallery Site - 1.0
 
 ## Software:
 https://www.sourcecodester.com/php/16073/music-gallery-site-using-php-and-mysql-database-free-source-code.html
+
+## Author:
+Ma Qiutong, Li Shudong, Lin Zihao
 
 ## Vulnerability File:
 /php-music/classes/Master.php?f=save_category
